@@ -41,7 +41,7 @@ Para poner en marcha el prototipo funcional en tu máquina local, sigue estos se
 
 Clonar el repositorio:
 
-git clone https://github.com/[tu-usuario]/pysi-proyecto.git
+git clone https://github.com/juanpapito-art/pysi-proyecto.git
 
 
 Navegar al directorio del proyecto:
